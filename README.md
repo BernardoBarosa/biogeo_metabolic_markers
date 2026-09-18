@@ -46,11 +46,11 @@ The recommended workflow is as follows:
 
    Plotting should use `Pathway_ID` as the primary pathway identifier, while descriptive information such as `Pathway`, `Cycle`, or `Gene_abbreviation` can be used for labels, legends, or grouping.
 
-## Important note on metabolic-function validation
+#### Important note on metabolic-function validation
 
-The presence of a single marker gene should not always be interpreted as sufficient evidence for the presence of a complete metabolic function or pathway.
+The presence of a single marker gene is not equivalent to the presence of a complete metabolic pathway or function
 
-For more robust validation, metabolic functions should be assessed by considering the recovery of additional subunits belonging to the same enzymatic complex, where applicable, as well as multiple enzymes representing different steps of a broader metabolic pathway.
+For more robust validation, metabolic functions should be assessed by considering the recovery of additional sub-units belonging to the same enzymatic complex, where applicable, as well as multiple enzymes representing different steps of a broader metabolic pathway.
 
 Complementary metabolic annotation frameworks, such as **DRAM**, can also be used to provide broader pathway context and support the interpretation of individual marker-gene assignments.
 
