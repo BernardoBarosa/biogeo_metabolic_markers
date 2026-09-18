@@ -1,0 +1,64 @@
+KO	Cycle	Pathway	Pathway_ID	Function	Gene_abbreviation	Enzyme
+K00537	Arsenic	Arsenate reduction	Arsenate_reduction_arsC	Arsenate reduction	arsC	Arsenate reductase
+K08356	Arsenic	Arsenite oxidation	Arsenite_oxidation_aoxB	Arsenite oxidation	aoxB	Arsenite oxidase
+K00399	Carbon	Methanogenesis	Methanogenesis_MrcA	Methane production	mcrA	Methyl-coenzyme M reductase
+K10944	Carbon 	Methanotrophy	Methanotrophy_pmoA	Methane oxidation	pmoA	Partculate methane monooxygenase
+K01601	Carbon 	Carbon fixation	CBB_cycle_rbcL	CBB cycle	rbcL	RuBisCO
+K15231	Carbon 	Carbon fixation	rTCA_cycle_aclB	rTCA cycle	aclB	ATP-citrate lyase
+K15234	Carbon 	Carbon fixation	rTCA_cycle_II_ccl	rTCA cycle II	ccl	Citryl-CoA lyase
+K14468	Carbon 	Carbon fixation	3HP_cycle_mcr	3HP	mcr	Malonyl-CoA reductase
+K18593	Carbon 	Carbon fixation	3HP_4HB_HbsC	3HP/4HB	hbsT	4-hydroxybutyrate-CoA ligase (AMP-forming) - Thaumarchaeota
+K18861	Carbon 	Carbon fixation	3HP_4HB_HbsT	3HP/4HB	hbsC	4-hydroxybutyrate-CoA ligase (AMP-forming) - Crenarchaeota
+K14467	Carbon 	Carbon fixation	DC_4HB_4hbl	DC/4HB	4hbl	4-hydroxybutyrate-CoA ligase (AMP-forming)
+K00198	Carbon 	Carbon fixation	WL_I_cooS	WL-I	cooS	Anaerobic carbon-monoxide dehydrogenase 
+K00192	Carbon 	Carbon fixation	WL_II_cdhA	WL-II	cdhA	Anaerobic carbon-monoxide dehydrogenase - CODH/ACS complex
+K03520	Carbon 	Aerobic CO oxidation	CO_oxidation_coxL	CO oxidation	coxL	Aerobic carbon-monoxide dehydrogenase
+K00123	Carbon 	C1 oxidation	Formate_oxidation_fdhF	Formate oxidation	fdhF	Formate dehydrogenase
+K14028	Carbon 	C1 oxidation	Methanol_oxidation_mxaF	Methanol oxidation	mxaF	Methanol dehydrogenase
+K02689	Energy	Oxygenic photosynthesis	Oxygenic_photosynthesis_psaA	Oxygenic photosynthesis	psaA	Oxygenic photosystem I
+K02703	Energy	Oxygenic photosynthesis	Oxygenic_photosynthesis_psbA	Oxygenic photosynthesis	psbA	Oxygenic photosystem II
+K08940	Energy	Anoxygenic photosynthesis	Anoxygenic_photosynthesis_pscA	Anoxygenic photosynthesis	pscA	Anoxygenic photosystem P840
+K00331	Energy	Oxidative phosphorilation	Oxidative_phosphorilation_nuoB	Oxidative phosphorilation	nuoB	NADH-quinone oxidoreductase
+K00241	Energy	Oxidative phosphorilation	Oxidative_phosphorilation_sdhC	Oxidative phosphorilation	sdhC	Succinate dehydrogenase cytochrome b
+K06281	Hydrogen	Hydrogen oxidation	H2_oxidation_NiFe_hyaB	Hydrogen oxidation	hyaB	Hydrogenase NiFe G1 G2
+K20150	Iron	Iron oxidation	Iron_oxidation_cyc2	Iron oxidation	cyc2	Iron:rusticyanin reductase 
+K28381	Iron	Iron oxidation	Iron_oxidation_mtoB	Iron oxidation	mtoB	Extracellular iron oxide respiratory system
+K22348	Manganese	Manganese oxidation	Manganese_oxidation_moxA	Manganese oxidation	moxA	Manganese oxidase
+K22349	Manganese	Manganese oxidation	Manganese_oxidation_mnxG	Manganese oxidation	mnxG	Manganese oxidase
+K22350	Manganese	Manganese oxidation	Manganese_oxidation_mcoA	Manganese oxidation	mcoA	Manganese oxidase
+K20935	Nitrogen	Anammox	Anammox_hdh	Hydrazine oxidation	hdh	Hydrazine dehydrogenase
+K20932	Nitrogen	Anammox	Anammox_hzsA	Hydrazine synthesis	hzsA	Hydrazine synthase
+K02567	Nitrogen	Denitrification	Denitrification_napA	Periplasmic nitrate reduction	napA	Periplasmic nitrate reductase
+K00368	Nitrogen	Denitrification	Denitrification_nirK	Nitrite reduction	nirK	Nitrite reductase (NO-forming)
+K15864	Nitrogen	Denitrification	Denitrification_nirS	Nitrite reduction	nirS	Nitrite reductase (NO-forming)
+K27148	Nitrogen	Denitrification	Denitrification_nod	Nitric oxide dismutation	nod	Nitric oxide dismutase
+K04561	Nitrogen	Denitrification	Denitrification_norB	Nitric oxide reduction	norB	Nitric oxide reductase
+K00376	Nitrogen	Denitrification	Denitrification_nosZ	Nitrous oxide reduction	nosZ	Nitrous-oxide reductase
+K00370	Nitrogen	Denitrification	Denitrification_narG	Nitrite reduction	narG	Nitrite oxidoreductase
+K03385	Nitrogen	DNRA	DNRA_nrfA	Nitrite reduction	nrfA	Nitrite reductase (cytochrome c-552)
+K02591	Nitrogen	N2 fixation	N2_fixation_nifK	Nitrogen fixation	nifK	Nitrogenase molybdenum-iron
+K28504	Nitrogen	Nitrification	Nitrification_amoA	Ammonia oxidation	amoA	Ammonia monooxygenase
+K10535	Nitrogen	Nitrification	Nitrification_hao	Hydroxylamine oxidation	hao	Hydroxylamine dehydrogenase
+K00370	Nitrogen	Nitrification	Nitrification_nxrA	Nitrite oxidation	nxrA	Nitrite oxidoreductase
+K02274	Oxygen	Aerobic respiration	Aerobic_respiration_coxA	Aerobic respiration	coxA	Cytochrome c oxidase caa3-type
+K00404	Oxygen	Aerobic respiration	Aerobic_respiration_ccoN	Aerobic respiration	ccoN	Cytochrome c oxidase cbb3-type
+K02297	Oxygen	Aerobic respiration	Aerobic_respiration_cyoA	Aerobic respiration	cyoA	Cytochrome o ubiquinol oxidase 
+K00425	Oxygen	Aerobic respiration	Aerobic_respiration_cydA	Aerobic respiration	cydA	Cytochrome bd ubiquinol oxidase
+K02827	Oxygen	Aerobic respiration	Aerobic_respiration_qoxB	Aerobic respiration	qoxB	Cytochrome aa3-600 menaquinol oxidase
+K12527	Selenium	Selenate reduction	Selenate_reduction_ygfK	Selenate reduction	ygfK	Selenate reductase
+K12528	Selenium	Selenate reduction	Selenate_reduction_xdhD	Selenate reduction	xdhD	Selenate reductase
+K17218	Sulfur	Sulfide oxidation	Sulfide_oxidation_sqr	Sulfide oxidation	sqr	Sulfide:quinone oxidoreductase
+K17229	Sulfur	Sulfide oxidation	Sulfide_oxidation_fccB	Sulfide oxidation	fccB	Flavocytochrome c sulphide dehydrogenase
+K17725	Sulfur	Sulfur oxidation	Sulfur_oxidation_sdo	Sulfur oxidation	sdo	Sulfur dioxygenase
+K17224	Sulfur	Thiosulfate oxidation	Thiosulfate_oxidation_soxB	Thiosulfate oxidation	soxB	S-sulfosulfanyl-L-cysteine sulfohydrolase
+K16952	Sulfur	Sulfite oxidation	Sulfite_oxidation_sor	Sulfite oxidation	sor	Sulfur oxygenase/reductase
+K00394	Sulfur	Sulfite oxidation	Sulfite_oxidation_aprA	Sulfite oxidation	aprA	Adenylylsulfate reductase
+K21308	Sulfur	Sulfite oxidation	Sulfite_oxidation_soeB	Sulfite oxidation	soeB	Sulfite dehydrogenase
+K00958	Sulfur	Sulfate reduction	Sulfate_reduction_sat	Sulfate reduction	sat	Sulfate adenylyltransferase
+K00394	Sulfur	Sulfate reduction	Sulfate_reduction_aprA	Sulfate reduction	aprA	Adenylylsulfate reductase
+K11180	Sulfur	Sulfate reduction	Sulfate_reduction_dsrA	Sulfate reduction	dsrA	Dissimilatory sulfite reductase
+K17219	Sulfur	Sulfur reduction	Sulfur_reduction_sreA	Sulfur reduction	sreA	Sulfur reductase
+K16293	Sulfur	Polysulfide reduction	Polysulfide_reduction_psrB	Polysulfide reduction	psrB	Polysulfide reductase
+K22481	Sulfur	Sulfur oxidation	Sulfur_oxidation_hdrB1	Sulfur oxidation	hdrB1	Heterodisulfide reductase
+K17996	Sulfur	Sulfur reduction	Sulfur_reduction_hydB	Sulfur reduction	hydB	Sulfhydrogenase
+K08352	Sulfur	Thiosulfate reduction	Thiosulfate_reduction_phsA	Thiosulfate reduction	phsA	Thiosulfate reductase
