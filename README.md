@@ -54,6 +54,6 @@ For more robust validation, metabolic functions should be assessed by considerin
 
 Complementary metabolic annotation frameworks, such as **DRAM**, can also be used to provide broader pathway context and support the interpretation of individual marker-gene assignments.
 
-## Future development
+#### Future development
 
-Future versions of this repository will include a custom script to automate KO matching, annotation filtering, integration with this curated table, pathway-level summarization, and generation of standardized plots using R
+Future versions of this repository will include a custom script to automate KO matching, annotation filtering, integration with this curated table, and generation of standardized plots using R
